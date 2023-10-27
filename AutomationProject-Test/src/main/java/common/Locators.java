@@ -1,0 +1,5 @@
+package common;
+
+public enum Locators {
+	ID,CLASSNAME,NAME,TAGNAME,LINKTEXT,PARTIALLINKTEXT,XPATH,CSSSELECTOR;
+}
